@@ -1,10 +1,10 @@
 # Animated-Card
 
->Animated cards and pictures are created using HTML, CSS, and jQuery mainly for laptop and desktop views. The 2D properties of CSS are used to create the intended flipping effect. The transition properties of CSS were used to scale up the images and have a closer look at the details of the image.
+>Animated cards and pictures are created using HTML, CSS, and jQuery mainly for laptop and desktop views. The 2D properties of CSS are used to create the intended flipping effect. The transition properties of CSS were used to scale up the images for a closer look at the details of the image.
 
 ## Live Demo
 
-[Demo Link]()
+[Demo Link](https://raw.githack.com/Takhmina175/Animated-Card/main/index.html)
 
 
 👤 **Takhmina Makhkamova**
